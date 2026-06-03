@@ -308,14 +308,6 @@ Currently exploring:
 
 ---
 
-## 📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Yash-200608&show_icons=true&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-200608&layout=compact&hide_border=true)
-
----
-
 ## 🎯 Philosophy
 
 «Models are temporary. Systems endure.»
